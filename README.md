@@ -15,11 +15,19 @@ Bem-vindo ao **Cardápio Digital**, a solução perfeita para modernizar a exper
 ---
 
 ## 📸 **Interface do Cardápio web**  
+<<<<<<< HEAD
 ![Captura de tela de 2025-03-18 00-19-39](./images/web.png)
 
 ---
 ## 📸 **Interface do Cardápio mobile**  
 ![Captura de tela de 2025-03-18 00-20-06](/home/luis/Downloads/caixa/caixa-diario/mobile.png)
+=======
+![web](https://github.com/user-attachments/assets/1a4aca80-ed56-4f17-9586-46024f05e63c)
+
+---
+## 📸 **Interface do Cardápio mobile**  
+![Captura de tela de 2025-03-18 00-20-06](https://github.com/user-attachments/assets/41618280-42be-4ec8-a036-f6db544013a7)
+>>>>>>> f450ed25b1878d93594b819d21515e0e94daffa2
 
 ---
 
