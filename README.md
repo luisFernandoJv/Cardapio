@@ -5,11 +5,11 @@ Bem-vindo ao **Cardápio Digital**, a solução perfeita para modernizar a exper
 ---
 
 ## 📸 **Interface do Cardápio web**  
-![Captura de tela de 2025-03-18 00-19-39](https://github.com/user-attachments/assets/25d29a2a-e66b-4485-aad1-a251d3769855)
+![web](https://github.com/user-attachments/assets/1a4aca80-ed56-4f17-9586-46024f05e63c)
 
 ---
 ## 📸 **Interface do Cardápio mobile**  
-![Captura de tela de 2025-03-18 00-20-06](https://github.com/user-attachments/assets/6c32b959-feee-4dc6-a4cb-44ba33969e13)
+![Captura de tela de 2025-03-18 00-20-06](https://github.com/user-attachments/assets/41618280-42be-4ec8-a036-f6db544013a7)
 
 ---
 
